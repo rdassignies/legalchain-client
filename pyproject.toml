@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "legalchain_api_client"
+version = "0.0.1"
+authors = [
+  { name="Raphaël d'Assignies", email="rdassignies@protonmail.ch" },
+]
+description = "Client pour l'API Langchain"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/rdassignies/legalchain-client"
+"Bug Tracker" = "https://github.com/rdassignies/legalchain-client/issues"

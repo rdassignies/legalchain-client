@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: legalchain-api-client
+Version: 0.0.1
+Summary: Client pour l'API Langchain
+Author-email: Raphaël d'Assignies <rdassignies@protonmail.ch>
+Project-URL: Homepage, https://github.com/rdassignies/legalchain-client
+Project-URL: Bug Tracker, https://github.com/rdassignies/legalchain-client/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# legalchain-client
